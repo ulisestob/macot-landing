@@ -1,0 +1,12 @@
+{
+  "main": [
+    { "name": "Inicio", "url": "/" },
+    { "name": "Nosotros", "url": "/about" },
+    { "name": "Contacto", "url": "/contact" }
+  ],
+  "footer": [
+    { "name": "Preguntas frecuentes", "url": "/privacy-policy" },
+    { "name": "Terminos y condiciones", "url": "/privacy-policy" },
+    { "name": "Politica de privacidad", "url": "/privacy-policy" }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "site": {
+    "title": "Macot",
+    "base_url": "https://astroplate.netlify.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo-macot.svg",
+    "logo_darkmode": "/images/logo-macot-dark.svg",
+    "logo_width": "30",
+    "logo_height": "30",
+    "logo_text": "Macot"
+  },
+
+  "settings": {
+    "search": false,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 2,
+    "summary_length": 200,
+    "blog_folder": "blog",
+    "default_language": "en",
+    "disable_languages": ["fr"],
+    "default_language_in_subdir": false
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 MACOT. Todos los derechos reservados."
+  },
+
+  "navigation_button": {
+    "enable": false,
+    "label": "Get Started",
+    "link": "https://github.com/zeon-studio/astroplate"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "zeon.studio",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "astro and tailwind boilerplate"
+  }
+}
